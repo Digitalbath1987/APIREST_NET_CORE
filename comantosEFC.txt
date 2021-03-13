@@ -1,0 +1,2 @@
+para actualizar una tabla 
+Scaffold-DBContext "Server=MARIOROSALES\DIGITALDB;Database=VentaReal;User=sa;Password=123456;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Tables "usuario" -Force
